@@ -1,0 +1,14 @@
+:root {
+
+    /* Produto */
+    --brand-color-light: #60A5FA;
+    --brand-color-dark: #1D4ED8;
+
+    /* Base */
+    --bg-color: #0F172A;
+    --stroke-color: #1E293B;
+    
+    /* Textos */
+    --text-color-primary:    #f2f5fd;
+    --text-color-secondary: #CBD5E1;
+} 
